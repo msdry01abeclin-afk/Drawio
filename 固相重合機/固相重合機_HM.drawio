@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net" modified="2023-07-19T03:15:18.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="hEn5HKBnfkBOuSMD93n9" version="21.3.5" type="device">
+  <diagram name="ページ1" id="tVOkmZLBMc6BZlABB03x">
+    <mxGraphModel dx="1220" dy="667" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bFQtwUXEqB7CnT5G6vMg-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=0;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="400" width="100" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="bFQtwUXEqB7CnT5G6vMg-3" value="" style="endArrow=blockThin;html=1;rounded=0;jumpSize=6;endFill=1;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="360" as="sourcePoint" />
+            <mxPoint x="200" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bFQtwUXEqB7CnT5G6vMg-5" value="&lt;font face=&quot;Tahoma&quot;&gt;POWER&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="50" y="340" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bFQtwUXEqB7CnT5G6vMg-10" value="&lt;font face=&quot;Tahoma&quot;&gt;C/C&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="160" y="450" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pkSxJytLPBOjMDV9699n-29" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=0;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="400" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="kW-TSCavR2I-4CRsxi7N-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="660" y="400" width="80" height="11.666666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="kW-TSCavR2I-4CRsxi7N-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="660" y="450.00333333333333" width="80" height="11.666666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="kW-TSCavR2I-4CRsxi7N-32" value="&lt;font face=&quot;Tahoma&quot;&gt;固相重合機&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="650" y="490" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kW-TSCavR2I-4CRsxi7N-35" value="&lt;font face=&quot;Tahoma&quot;&gt;電源&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="398" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kW-TSCavR2I-4CRsxi7N-38" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="450" as="sourcePoint" />
+            <mxPoint x="670" y="411.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kW-TSCavR2I-4CRsxi7N-40" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="450" as="sourcePoint" />
+            <mxPoint x="730" y="411.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kW-TSCavR2I-4CRsxi7N-41" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="450" as="sourcePoint" />
+            <mxPoint x="720" y="411.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kW-TSCavR2I-4CRsxi7N-42" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="709.93" y="451.33" as="sourcePoint" />
+            <mxPoint x="709.93" y="413" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kW-TSCavR2I-4CRsxi7N-43" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="699.93" y="451.33" as="sourcePoint" />
+            <mxPoint x="699.93" y="413" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kW-TSCavR2I-4CRsxi7N-44" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="451.33" as="sourcePoint" />
+            <mxPoint x="690" y="413" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kW-TSCavR2I-4CRsxi7N-45" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="451.33" as="sourcePoint" />
+            <mxPoint x="680" y="413" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bFQtwUXEqB7CnT5G6vMg-11" value="" style="endArrow=none;html=1;rounded=1;jumpSize=6;endFill=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.214;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="kW-TSCavR2I-4CRsxi7N-13" source="bFQtwUXEqB7CnT5G6vMg-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="410" as="sourcePoint" />
+            <mxPoint x="670" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="430" />
+              <mxPoint x="370" y="360" />
+              <mxPoint x="631" y="360" />
+              <mxPoint x="631" y="406" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kW-TSCavR2I-4CRsxi7N-53" value="" style="endArrow=none;html=1;rounded=1;jumpSize=6;endFill=0;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="bFQtwUXEqB7CnT5G6vMg-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="360" as="sourcePoint" />
+            <mxPoint x="200" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kW-TSCavR2I-4CRsxi7N-54" value="" style="endArrow=blockThin;html=1;rounded=0;jumpSize=6;endFill=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="430" as="sourcePoint" />
+            <mxPoint x="360" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kW-TSCavR2I-4CRsxi7N-56" value="" style="endArrow=blockThin;html=1;rounded=0;jumpSize=6;endFill=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="360" as="sourcePoint" />
+            <mxPoint x="620" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
